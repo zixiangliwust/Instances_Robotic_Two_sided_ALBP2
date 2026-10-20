@@ -1,6 +1,6 @@
 <number of tasks>
 148
-<number of mated-station>
+<number of mated-stations>
 10
 <type of the robots>
 20
